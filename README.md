@@ -1,1 +1,2 @@
-Basic Python Programs
+- Basic Python Programs.
+- Begginer Friendly.
